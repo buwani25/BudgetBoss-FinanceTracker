@@ -1,0 +1,48 @@
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--  App Theme Colors  -->
+    <color name="background_color">#cde0f7</color>
+    <!--  Off-white  -->
+    <color name="onboarding_background">#d5ebf0</color>
+    <!--  Light Mint Green  -->
+    <color name="tile_color">#171742</color>
+    <!--  Soft Teal (Accent)  -->
+    <color name="header_color">#030230</color>
+    <!--  Green (Primary)  -->
+    <color name="progress_bar_color">#0775fa</color>
+    <!--  Green (Primary)  -->
+    <color name="progress_bar_danger">#78040b</color>
+    <!--  Red  -->
+    <color name="fab_color">#06065c</color>
+    <!--  Green (Primary)  -->
+    <color name="text_color">#111827</color>
+    <!--  Dark Charcoal  -->
+    <!--  Category Colors  -->
+    <color name="category_travel">#8fe88e</color>
+    <!--  Pink  -->
+    <color name="category_bills">#7e98cf</color>
+    <!--  Red  -->
+    <color name="category_food">#f7a17c</color>
+    <!--  Orange  -->
+    <color name="category_entertainment">#f7e05e</color>
+    <!--  Yellow  -->
+    <color name="category_other">#b595f5</color>
+    <!--  Maroon  -->
+    <color name="category_salary">#7e98cf</color>
+    <!--  Green  -->
+    <color name="category_bonus">#eda3f0</color>
+    <!--  Blue  -->
+    <color name="category_gift">#d95945</color>
+    <!--  Purple  -->
+    <!--  edit btn  -->
+    <color name="edit_btn">#03a62f</color>
+    <!--  delete btn  -->
+    <color name="delete_btn">#f2433a</color>
+
+    <color name="warning_color">#bf060c</color>
+
+    <color name="default_category_color">#541a3e</color>
+
+</resources>

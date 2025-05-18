@@ -1,0 +1,64 @@
+
+<resources>
+    <string name="app_name">Budget Boss</string>
+    <!--  Navigation  -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_records">Transactions</string>
+    <string name="nav_settings">Budget</string>
+    <!--  Dashboard  -->
+    <string name="current_monthly_budget">Current Monthly Budget</string>
+    <string name="budget_remaining">Budget Remaining</string>
+    <string name="incomes">Incomes</string>
+    <string name="expenses">Expenses</string>
+    <string name="category_breakdown">Category Breakdown</string>
+    <!--  Records  -->
+    <string name="add_record">Add Transaction</string>
+    <string name="edit_record">Edit Transaction</string>
+    <string name="delete_record">Delete Transaction</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="type">Type</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <!--  Settings  -->
+    <string name="change_budget_amount">Change Budget Amount</string>
+    <string name="currency">Currency</string>
+    <string name="export">Export</string>
+    <string name="import_data">Import</string>
+    <string name="apply">Apply</string>
+    <string name="currency_lkr">Sri Lankan Rupee (LKR)</string>
+    <!--  Categories  -->
+    <string name="category_travel">Travel</string>
+    <string name="category_bills">Bills</string>
+    <string name="category_food">Food</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_other">Other</string>
+    <string name="category_salary">Salary</string>
+    <string name="category_bonus">Bonus</string>
+    <string name="category_gift">Gift</string>
+    <!--  Notifications  -->
+    <string name="budget_warning_title">Budget Warning</string>
+    <string name="budget_warning_message">You have used 90% of your monthly budget!</string>
+    <string name="budget_exceeded_title">Budget Exceeded</string>
+    <string name="budget_exceeded_message">You have exceeded your monthly budget!</string>
+    <!--  Dialogs  -->
+    <string name="set_budget">Set Budget</string>
+    <string name="enter_budget_amount">Enter Budget Amount</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="export_success">Data exported successfully</string>
+    <string name="import_success">Data imported successfully</string>
+    <string name="export_error">Error exporting data</string>
+    <string name="import_error">Error importing data</string>
+    <!--  Onboarding  -->
+    <string name="onboarding_quote">\"The art is not in making money, but in keeping it.\" - Proverb</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Warning message for nearing budget limit -->
+    <string name="warning_nearing_budget_limit">Warning: You are nearing your budget limit!</string>
+
+
+</resources>
